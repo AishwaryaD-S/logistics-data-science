@@ -39,8 +39,8 @@ To handle raw, unorganized telemetry logs, the project utilizes a programmatical
 ---
 
 ## 4. Repository Files & Structure
-* **Task 1:** `logistics_internship_Task1.ipynb` & `logistics_internship_Task1.docx`
-* **Task 2:** `logistics_internship_Task2.ipynb` & `logistics_internship_Task2.docx`
-* **Task 3:** `logistics_internship_Task3.ipynb` & `logistics_internship_Task3.docx`
-* **Task 4:** `logistics_internship_Task4.ipynb` & `logistics_internship_Task4.docx`
+* **Task 1:** `Task 1.ipynb` & `Task 1.docx`
+* **Task 2:** `Task 2.ipynb` & `Task 2.docx`
+* **Task 3:** `Task 3.ipynb` & `Task 3.docx`
+* **Task 4:** `Task 4.ipynb` & `Task 4.docx`
 * **Dependencies:** `requirements.txt` (lists all required Python libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`)
